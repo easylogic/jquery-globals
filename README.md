@@ -40,7 +40,7 @@ window.jQuery = $
 You don't need webpack.ProviderPlugin anymore.
 
 ```js
-import 'jquery-globals'
+import '@easylogic/jquery-globals'
 import 'summernote/dist/lang/summernote-ko-KR'; 
 ```
 
