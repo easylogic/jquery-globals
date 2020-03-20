@@ -1,0 +1,23 @@
+{
+  "name": "@easylogic/jquery-globals",
+  "version": "1.0.0",
+  "description": "jquery helper library to using in esm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easylogic/jquery-globals.git"
+  },
+  "keywords": [],
+  "author": "easylogic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/easylogic/jquery-globals/issues"
+  },
+  "homepage": "https://github.com/easylogic/jquery-globals#readme",
+  "peerDependencies": {
+    "jquery": "^3.4.1"
+  }
+}
